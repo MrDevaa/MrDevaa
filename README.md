@@ -30,11 +30,15 @@ Databases:    MySQL
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### [Book_recommender](#)
+### [Book_recommender](https://github.com/MrDevaa/book-recommender)
 > My flagship project focused on cloud solutions and next-gen infrastructure.  
 > (Demo and details coming soon!)
+
+### [CloudVision_v2](https://github.com/MrDevaa/CloudVision_v2)
+> A project showcasing advanced cloud-based vision processing and AI integration.  
+> (Check it out for innovative cloud vision applications!)
 
 ---
 
