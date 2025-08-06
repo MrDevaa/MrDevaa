@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,python,flask,fastapi,php,mysql,docker,kubernetes,grafana,prometheus,c" alt="Skill icons" style="margin-bottom: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,python,flask,fastapi,php,mysql,docker,kubernetes,grafana,prometheus,c,dotnet,cs,visualstudio" alt="Skill icons" style="margin-bottom: 10px;" />
 </div>
 
 ---
@@ -40,6 +40,9 @@ Databases:    MySQL
 > A project showcasing advanced cloud-based vision processing and AI integration.  
 > (Check it out for innovative cloud vision applications!)
 
+### [REST-_APIs_in.NET-9](https://github.com/MrDevaa/REST-_APIs_in.NET-9)
+> A modern REST API implementation using .NET 9. 
+> Clean architecture, C# best practices, and full-featured backend development.
 ---
 
 ## 🕵️‍♂️ Interests
