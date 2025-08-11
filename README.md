@@ -69,6 +69,15 @@ Databases:    MySQL
 
 ---
 
+
+
+###
+
+<img src="https://raw.githubusercontent.com/ArthurJenck/ArthurJenck/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <!--
 Profile crafted with ❤️ by MrDevaa & GitHub Copilot
 -->
