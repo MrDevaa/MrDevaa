@@ -1,7 +1,7 @@
 <!-- Profile README for MrDevaa -->
 
 <h1 align="center">
-  Welcome to MrDevaa's Space 🚀
+  Welcome to My Space 🚀
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD0&random=false&center=true&vCenter=true&width=435&lines=Let's+code+together!" alt="Typing SVG" />
 </h1>
